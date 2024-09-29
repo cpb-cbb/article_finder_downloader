@@ -1,0 +1,2 @@
+使用python爬虫从pubmed上爬取文献的信息然后再从scihub上批量下载，使用prepare可以快速将混乱的参考文献列表转化为可以使用软件下载的格式。
+要注意：msedgedriver要与edge浏览器的版本相匹配，若不匹配则无法启动。
